@@ -22,7 +22,7 @@ const initOptions = {
 	},
 	"extensionCount": 0,
 	"assets": {
-		"project": "../project.json",
+		"project": "./project.json",
 		"9d00455bdc22330c76793515495434d9.svg": "./SVG/9d00455bdc22330c76793515495434d9.svg",
 		"19cfeef55d59075c284d3b25aead13c6.png": "./Assets/19cfeef55d59075c284d3b25aead13c6.png",
 		"83a9787d4cb6f3b7632b4ddfebf74367.wav": "./Sounds/83a9787d4cb6f3b7632b4ddfebf74367.wav",
