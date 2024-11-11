@@ -169,10 +169,6 @@ class CloudProvider {
     }
   }
 }
-
-// Based on
-// https://github.com/LLK/scratch-gui/blob/7b658c60c7c04055e575601a861195fe6c9933f3/src/lib/video/camera.js
-// https://github.com/LLK/scratch-gui/blob/7b658c60c7c04055e575601a861195fe6c9933f3/src/lib/video/video-provider.js
 class VideoProvider {
   constructor (width, height) {
     this._dimensions = [width, height]
